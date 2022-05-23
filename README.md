@@ -1,2 +1,3 @@
 # IntroToManifolds
-Andrzej Chrzeszczyk's introduction to manifolds in SageMath
+
+Andrzej Chrzeszczyk's [Introduction to manifolds in SageMath](https://sagemanifolds.obspm.fr/intro_to_manifolds.html)
